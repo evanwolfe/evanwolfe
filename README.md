@@ -2,7 +2,7 @@
 
 ## Cloud Security | DevSecOps | Application Security
 
-Dedicated to building secure and scalable cloud solutions. I bring advanced expertise in Cloud Security and DevSecOps and to ensure robust security measures throughout the development lifecycle.
+I bring advanced expertise in designing, developing, and deploying solutions in the context of Cloud Security and DevSecOps to ensure robust security measures throughout the development lifecycle.
 
 ### 🔧 Technologies & Tools
 
@@ -11,20 +11,6 @@ Dedicated to building secure and scalable cloud solutions. I bring advanced expe
 - CI/CD: GitHub Actions, Jenkins, GitLab CI/CD
 - Containerization: Docker, Kubernetes, AKS, GKE, EKS
 - Coding: Python, Bash, Go, Powershell
-
-### 🌐 Professional Work
-
-- **Building Security Guardrails**
-  - Assess, develop, and implement cloud guardrails for maintaining security controls for cloud governance.
-  - Led DevSecOps initiatives, integrating security into the CI/CD pipeline.
- 
-- **Security Analytics**
-  - Develop automated processes and ETL pipelines for data extraction and analysis.
-  - Centralize data visualization and reporting using automated integrations.
-
-- **Instructor / Educator**
-  - Instructed accredited courses on AWS, Development, and Containerization at Dallas College in the Cloud Computing department.
-  - Developed state of the art cloud projects for students to gain real world experience through building.
 
 ### 🚀 Certifications
 
