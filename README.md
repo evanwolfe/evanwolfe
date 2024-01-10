@@ -2,7 +2,7 @@
 
 ## Cloud Security | DevSecOps | Application Security
 
-I bring advanced expertise in designing, developing, and deploying solutions in the context of Cloud Security and DevSecOps to ensure robust security measures throughout the development lifecycle.
+I enjoy designing, developing, and deploying Cloud Security and DevSecOps solutions that help to ensure robust security measures throughout the development lifecycle.
 
 ### 🔧 Technologies & Tools
 
@@ -21,4 +21,4 @@ I bring advanced expertise in designing, developing, and deploying solutions in 
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/evanwolfe)
+- LinkedIn: [My Linkedin!](https://www.linkedin.com/in/evanwolfe)
