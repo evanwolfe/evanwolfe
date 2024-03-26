@@ -1,8 +1,8 @@
 # Hey, I'm Evan👋
 
-## Cloud Security | DevSecOps | Application Security
+## Cloud Security | App Sec | DevSecOps
 
-I enjoy designing, developing, and deploying Cloud Security and DevSecOps solutions that help to ensure robust security measures throughout the development lifecycle.
+I enjoy designing, developing, and deploying secure solutions within the cloud.
 
 ### 🔧 Technologies & Tools
 
@@ -10,14 +10,14 @@ I enjoy designing, developing, and deploying Cloud Security and DevSecOps soluti
 - Security Frameworks: Cloud Security Alliance (CSA), Center for Internet Security (CIS), NIST CSF
 - CI/CD: GitHub Actions, Jenkins, GitLab CI/CD
 - Containerization: Docker, Kubernetes, AKS, GKE, EKS
-- Coding: Python, Bash, Go, Powershell
+- Coding: Python, Javascript, Go, Bash, Powershell
 
-### 🚀 Certifications
+### 🚀 Creds
 
 - Certified Information Systems Security Professional (CISSP)
-- AWS Accredited Educator
-- AWS Developer Associate
-- AWS Certified Cloud Practitioner
+- AWS Accredited Educator. Previous Adjunct Faculty at Dallas College teaching AWS and Cloud Development
+- Presented at Hackers Teaching Hackers 2023. "Wrangling Cybersecurity Data at Scale: From Beginning, to Building, and Beyond"
+- Presented at Heath-ISAC, Fall Summit 2023. "Wrangling Cybersecurity Data at Scale: From Beginning, to Building, and Beyond"
 
 ### 📫 Let's Connect!
 
