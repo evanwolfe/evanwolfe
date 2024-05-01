@@ -1,10 +1,10 @@
-# Hey, I'm Evan👋
+# Quick Intro 👋
 
 ## Cloud Security | App Sec | DevSecOps
 
 I enjoy designing, developing, and deploying secure solutions within the cloud.
 
-### 🔧 Technologies & Tools
+### 🧰 Technologies & Tools
 
 - Cloud Platforms: AWS, Azure, GCP
 - Security Frameworks: Cloud Security Alliance (CSA), Center for Internet Security (CIS), NIST CSF
