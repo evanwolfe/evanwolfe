@@ -15,7 +15,7 @@ I enjoy designing, developing, and deploying secure solutions within the cloud.
 ### 🚀 Creds
 
 - Certified Information Systems Security Professional (CISSP)
-- AWS Accredited Educator. Previous Adjunct Faculty at Dallas College teaching AWS and Cloud Development
+- AWS Accredited Educator. Previous Adjunct Faculty at Dallas College teaching AWS, Developing applications in the cloud, and containers / microservices
 - Presenter ("Wrangling Cybersecurity Data at Scale: From Beginning, to Building, and Beyond"):
   - at Hackers Teaching Hackers 2023
   - Heath-ISAC, Fall Summit 2023
